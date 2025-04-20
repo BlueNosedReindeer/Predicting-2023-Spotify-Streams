@@ -1,4 +1,4 @@
-# 🎧 Predicting 2023 Spotify Streams with Supervised Learning
+# Predicting 2023 Spotify Streams with Supervised Learning
 
 Welcome to the project repository for **Predicting Spotify Streams (2023)** — a supervised machine learning analysis using real-world music data from the most streamed Spotify songs of the year.
 
